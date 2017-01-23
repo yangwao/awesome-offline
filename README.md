@@ -29,7 +29,7 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 
 * [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
 
-#### Platform
+#### Platforms
 
 * [Dat](https://github.com/datproject/dat) - Sync data across the distributed web.
 * [IPFS](https://github.com/ipfs/js-ipfs) - (the InterPlanetary File System) is a new hypermedia distribution protocol, addressed by content and identities.
@@ -42,7 +42,7 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 
 * [Awesome Progressive Web Apps](https://github.com/hemanth/awesome-pwa)
 
-#### Service
+#### Services
 
 * [offline NPM](https://github.com/yangwao/modserv) ( Docker is required, syncs in ≈5h, great for internet-less conferences)
 
@@ -64,7 +64,7 @@ is a place to discuss offline web related technologies, get help and find out mo
 * Service Workers
  * [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
 
-#### Video
+#### Videos
 
 * [Serverless in an Offline-First world - Alexander Stigsen](https://www.youtube.com/watch?v=Yxof4sXXwcg)
 
