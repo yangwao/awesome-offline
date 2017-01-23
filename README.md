@@ -55,6 +55,7 @@ is a place to discuss offline web related technologies, get help and find out mo
 #### Software
 
 * [GunDB](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph database engine
+* [Hood.ie](https://github.com/hoodiehq/hoodie) A backend for Offline First applications 
 * [Webtorrent](https://github.com/feross/webtorrent) -  Streaming torrent client for the web
 * IndexedDB libraries
  * [Dexie.js](https://github.com/dfahlander/Dexie.js)
