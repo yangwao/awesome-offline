@@ -56,12 +56,15 @@ is a place to discuss offline web related technologies, get help and find out mo
 
 * [GunDB](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph database engine
 * [Hood.ie](https://github.com/hoodiehq/hoodie) A backend for Offline First applications 
+* [Hyperlog](https://github.com/mafintosh/hyperlog) Merkle DAG that replicates based on scuttlebutt logs and causal linking
 * [Webtorrent](https://github.com/feross/webtorrent) -  Streaming torrent client for the web
 * IndexedDB libraries
  * [Dexie.js](https://github.com/dfahlander/Dexie.js)
  * [localForage](https://github.com/localForage/localForage)
  * [PouchDB](https://github.com/pouchdb/pouchdb)
  * [ydn-db](https://github.com/yathit/ydn-db)
+ 
+* [Scuttlebot](https://github.com/ssbc/scuttlebot) Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system.
 * Service Workers
  * [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
 
