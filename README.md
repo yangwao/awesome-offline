@@ -24,6 +24,8 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 #### Blogposts
 
 * [Offline Camp](https://medium.com/offline-camp)
+* [Offline Storage for Progressive Web Apps
+](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c)
 
 #### Design / UI
 
@@ -68,7 +70,8 @@ is a place to discuss offline web related technologies, get help and find out mo
  * [LokiJS](https://github.com/techfort/LokiJS) (in-memory)
 * Service Workers
  * [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
-
+ * [sw-precache](sw-precache (offline precaching for static assets/application shells) (offline precaching for static assets/application shells)
+ * [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) (offline caching for dynamic/runtime requests)
 #### Videos
 
 * [Serverless in an Offline-First world - Alexander Stigsen](https://www.youtube.com/watch?v=Yxof4sXXwcg)
