@@ -19,7 +19,7 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 
 #### Appearance
 
-* [Get your offline T-rex (offline-dino)](https://www.stickermule.com/uk/marketplace/10818-offline-t-rex)) (*or I can send you for PR*, donations are for local NodeSchool Bratislava)
+* [Get your offline T-rex (offline-dino)](https://www.stickermule.com/uk/marketplace/10818-offline-t-rex) - or you get one for PR, donations are for local NodeSchool Bratislava
 
 #### Blogposts
 
@@ -46,7 +46,7 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 
 #### Services
 
-* [offline NPM](https://github.com/yangwao/modserv) ( Docker is required, syncs in ≈5h, great for internet-less conferences)
+* [offline NPM](https://github.com/yangwao/modserv) - Docker is required, syncs in approx 6h, great for internet-less conferences)
 
 #### Social
 
@@ -57,7 +57,8 @@ is a place to discuss offline web related technologies, get help and find out mo
 #### Software
 
 * [GunDB](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph database engine
-* [Hood.ie](https://github.com/hoodiehq/hoodie) A backend for Offline First applications
+* [Hood.ie](https://github.com/hoodiehq/hoodie) - A backend for Offline First applications 
+* [Hyperlog](https://github.com/mafintosh/hyperlog) - Merkle DAG that replicates based on scuttlebutt logs and causal linking
 * [Webtorrent](https://github.com/feross/webtorrent) -  Streaming torrent client for the web
 * **IndexedDB Libraries worth checking out**
  * [Dexie.js](https://github.com/dfahlander/Dexie.js) (~16KB, Promises, complex queries, secondary indices)
@@ -68,6 +69,7 @@ is a place to discuss offline web related technologies, get help and find out mo
  * [Lovefield](https://github.com/google/lovefield)
  * [ydn-db](https://github.com/yathit/ydn-db) (dexie-like, works with WebSQL)
  * [LokiJS](https://github.com/techfort/LokiJS) (in-memory)
+* [Scuttlebot](https://github.com/ssbc/scuttlebot) is an open source peer-to-peer log store used as a database, identity provider, and messaging system.
 * Service Workers
  * [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
  * [sw-precache](sw-precache (offline precaching for static assets/application shells) (offline precaching for static assets/application shells)
