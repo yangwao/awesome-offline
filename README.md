@@ -55,13 +55,17 @@ is a place to discuss offline web related technologies, get help and find out mo
 #### Software
 
 * [GunDB](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph database engine
-* [Hood.ie](https://github.com/hoodiehq/hoodie) A backend for Offline First applications 
+* [Hood.ie](https://github.com/hoodiehq/hoodie) A backend for Offline First applications
 * [Webtorrent](https://github.com/feross/webtorrent) -  Streaming torrent client for the web
-* IndexedDB libraries
- * [Dexie.js](https://github.com/dfahlander/Dexie.js)
- * [localForage](https://github.com/localForage/localForage)
- * [PouchDB](https://github.com/pouchdb/pouchdb)
- * [ydn-db](https://github.com/yathit/ydn-db)
+* **IndexedDB Libraries worth checking out**
+ * [Dexie.js](https://github.com/dfahlander/Dexie.js) (~16KB, Promises, complex queries, secondary indices)
+ * [localForage](https://github.com/localForage/localForage) (~8KB, Promises, good legacy browser support)
+ * [idb-keyval](https://github.com/jakearchibald/idb-keyval) (<500 bytes, Promises, use if only need key-value support)
+ * [idb](https://github.com/jakearchibald/idb) (~1.7KB, Promises, also does iteration, indexing)
+ * [PouchDB](https://github.com/pouchdb/pouchdb) (~45KB (supports custom builds), synchronization)
+ * [Lovefield](https://github.com/google/lovefield)
+ * [ydn-db](https://github.com/yathit/ydn-db) (dexie-like, works with WebSQL)
+ * [LokiJS](https://github.com/techfort/LokiJS) (in-memory)
 * Service Workers
  * [Awesome Service Workers](https://github.com/TalAter/awesome-service-workers)
 
