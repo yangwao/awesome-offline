@@ -1,6 +1,6 @@
 # awesome-offline [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for creating Offline things
+> Useful resources for creating Offline projects
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
@@ -15,7 +15,7 @@ What is a offline-first movement?
 
 ### **Pull Requests are welcome**
 
-Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/) at 2014 and later I've made [myself list of things](https://github.com/yangwao/offline-stash) required to work during commuting to destination (mostly offline or with Lo-Fi *read not OK internet connection*)
+I found website [offlinefirst.org](http://offlinefirst.org/) in 2014 and later I've made [my own list ](https://github.com/yangwao/offline-stash) required to work during commuting to destination (offline or with Lo-Fi *read not OK internet connection*)
 
 #### Appearance
 
@@ -46,7 +46,7 @@ Main idea was, that I found website [offlinefirst.org](http://offlinefirst.org/)
 
 #### Services
 
-* [offline NPM](https://github.com/yangwao/modserv) - Docker is required, syncs in approx 6h, great for internet-less conferences)
+* [offline NPM](https://github.com/yangwao/modserv) - Docker is must-have, syncs in approx 6h, great for internet-less conferences)
 
 #### Social
 
@@ -57,13 +57,13 @@ is a place to discuss offline web related technologies, get help and find out mo
 #### Software
 
 * [GunDB](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph database engine
-* [Hood.ie](https://github.com/hoodiehq/hoodie) - A backend for Offline First applications 
+* [Hood.ie](https://github.com/hoodiehq/hoodie) - A backend for Offline First applications
 * [Hyperlog](https://github.com/mafintosh/hyperlog) - Merkle DAG that replicates based on scuttlebutt logs and causal linking
 * [Webtorrent](https://github.com/feross/webtorrent) -  Streaming torrent client for the web
 * **IndexedDB Libraries worth checking out**
  * [Dexie.js](https://github.com/dfahlander/Dexie.js) (~16KB, Promises, complex queries, secondary indices)
  * [localForage](https://github.com/localForage/localForage) (~8KB, Promises, good legacy browser support)
- * [idb-keyval](https://github.com/jakearchibald/idb-keyval) (<500 bytes, Promises, use if only need key-value support)
+ * [idb-keyval](https://github.com/jakearchibald/idb-keyval) (<500 bytes, Promises, use if need key-value support)
  * [idb](https://github.com/jakearchibald/idb) (~1.7KB, Promises, also does iteration, indexing)
  * [PouchDB](https://github.com/pouchdb/pouchdb) (~45KB (supports custom builds), synchronization)
  * [Lovefield](https://github.com/google/lovefield)
